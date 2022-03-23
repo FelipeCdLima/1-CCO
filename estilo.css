@@ -1,0 +1,28 @@
+    
+    .subtit {
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: rgb(150, 21, 12); font-weight: 500;
+        }
+    .tit {
+            font-family: 'Courier New', Courier, monospace;
+            color: aquamarine; font-weight: 900; margin: 5px;
+        }
+    .destaque {
+            font-family: 'Courier New', Courier, monospace;
+            font-weight: 900; color: aquamarine;
+        }
+
+    body{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: 400;
+    }
+    #box2 {
+        height: 20px;
+        width: 20px;
+        background-color: blueviolet;
+    }
+    .container{
+        width: 30%;
+        background-color: rgb(51, 49, 167);
+
+    }
